@@ -14,7 +14,7 @@ Template to create node modules repositories
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore expedita totam velit, nemo eveniet voluptate. Qui, magnam magni voluptas et eos sequi maiores adipisci repellat eaque accusamus mollitia ipsam dolorum!
 
-### Troubles
+## Troubles
 
 If you have any kind of trouble with it, just let me now by raising an issue on the GitHub issue tracker here:
 
